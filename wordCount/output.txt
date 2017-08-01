@@ -1,0 +1,3 @@
+Word Count : 10123
+Distinct Word Count : 3152
+Character Count : 43474
